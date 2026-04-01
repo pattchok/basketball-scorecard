@@ -1,0 +1,85 @@
+// palette
+// dark purple: #4b2e82
+// lilac: #c7acd2
+// gold: #ffc700
+// whitesmoke: #f5f5f5
+// bubblegum pink: #F94F6D
+// lavender grey: #8B9DBA
+
+
+body {
+    margin: 0;
+}
+
+.scoreboard {
+    background: #4b2e82;
+    padding: 0 0 5px 0;
+    border: 5px solid #f5f5f5;
+    border-radius: 20px;
+}
+
+@font-face {
+    font-family: "cursed-timer";
+    src: url("/fonts/cursed-timer.ttf");
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.scorecard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.team {
+    font-size: 38px;
+    font-weight: bold;
+    color: #f5f5f5;
+    margin: 20px 0 5px 0;
+}
+
+.score-count {
+    width: 150px;
+    height: 90px;
+    text-align: center;
+    background: black;
+    color: #ffc700;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px 5px 20px 10px;
+    margin: 5px 0 20px 0;
+    font-family: "cursed-timer", monospace;
+    font-size: 90px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+
+}
+.add-btn {
+    background: none;
+    color: #c7acd2;
+    border: 2px solid #c7acd2;
+    border-radius: 8px;
+    font-family: "cursed-timer", monospace;
+    font-size: 16px;
+    padding: 10px 12px;
+}
+
+.reset-btn {
+    display: block;
+    color: #4b2e82;
+    background: #ffc700;
+    border: 2px solid #ffc700;
+    border-radius: 8px;
+    font-family: "cursed-timer", monospace;
+    font-size: 20px;
+    margin: 20px auto;
+    padding: 10px 12px;
+    justify-content: center;
+}
