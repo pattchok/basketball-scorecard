@@ -55,11 +55,3 @@ function reset() {
 console.log(add1home)
 console.log(add1homeEl)
 console.log(homeScore)
-
-/* create 6 functions: +1/+2/+3 home and +1/+2/+3 guest */
-
-/* call the correct function when the user clicks on one of the buttons */
-
-/* perform the calculation on score-count (home and guest) */
-
-/* Render the result of the calculation */
