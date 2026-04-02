@@ -20,7 +20,7 @@ body {
 
 @font-face {
     font-family: "cursed-timer";
-    src: url("/fonts/cursed-timer.ttf");
+    src: url("fonts/cursed-timer.ttf");
 }
 
 .container {
