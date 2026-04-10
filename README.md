@@ -1,19 +1,13 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+## about this project
+a simple scoreboard app for tracking home and away scores. you can increment each side by +1, +2, or +3, and reset when the game's done. this is my first JavaScript project! built to get comfortable with real interactivity and DOM manipulation. (very excited!)
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+**tech stack:** HTML, CSS, JavaScript
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+**live site:** [scorecard-uw.netlify.app](https://scorecard-uw.netlify.app)
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+thanks for stopping by :)
 
-Happy Coding!
+## about me
+hi, i'm patt! i'm a PM learning to code in the age of AI. i have experience in both product and program management but never coded myself irl before. i believe understanding actual coding will help me use AI in a better, more efficient way, especially in more complex environments.
+
+i'm from a business background but jumped into PM work since graduation in 2019. i've taken online courses like CS50x, a few codecademy tracks, and some python/data courses, but never really built anything outside of them. in 2026 i found scrimba, a very hands-on platform that guides you through building and deploying real apps, so i'm starting to learn how to code again.
