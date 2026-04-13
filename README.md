@@ -3,8 +3,6 @@ a simple scoreboard app for tracking home and away scores. you can increment eac
 
 **tech stack:** HTML, CSS, JavaScript
 
-**live site:** [scorecard-uw.netlify.app](https://scorecard-uw.netlify.app)
-
 thanks for stopping by :)
 
 ## about me
